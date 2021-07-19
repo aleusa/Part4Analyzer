@@ -1,0 +1,4 @@
+plc/project/ParserTests.java
+ plc.project.ParserTests
+plc/project/AnalyzerTests.java
+ plc.project.AnalyzerTests
